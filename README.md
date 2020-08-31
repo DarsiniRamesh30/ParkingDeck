@@ -1,7 +1,7 @@
 # ParkingDeck
 Online Parking Application
 # Directories
-WebContent : contains jsp, css ,java and js files\n
+WebContent : contains jsp, css ,java and js files</br >
 databaseSchema.txt : mysql database table structures
 # Required JARs
 servlet-api.jar: available in the tomcat lib directory
